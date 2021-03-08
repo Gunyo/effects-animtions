@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100&display=swap');
+
 @keyframes colorful-text {
     0% {
         color: white;
@@ -42,6 +44,7 @@ h1 {
     top: 40%;
     text-shadow: 2px 2px 6px black;
     animation: colorful-text 5s infinite alternate;
+    font-family: 'Josefin Slab', serif;
 }
 
 #one {
